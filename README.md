@@ -14,3 +14,4 @@
 
 ### Credits
 - Just Sorrow#0666 for the development of sorrowcord.
+- [Eastside Discord](https://discord.gg/Spx336jUVE) being our first official partner.
