@@ -1,3 +1,8 @@
+> SorrowCord is no longer available to the public, and will no longer be maintained by its developers.
+> No futher updates will be made to this project.
+
+
+
 ### SorrowCord
 `A lightweight discord client mod focused on simplicity, performance, and unique features.`
 
